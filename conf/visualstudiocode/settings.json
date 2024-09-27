@@ -1,0 +1,29 @@
+{
+    "insertDateString.format": "YYYY-MM-DD hh:mm:ss ", // CTRL + Shift +I
+    "extensions.autoCheckUpdates": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.allowChords": false,
+    "editor.fontWeight": "normal",
+    "editor.fontFamily": "Consolas",
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "normal",
+    "glassit.alpha": 255,
+    "breadcrumbs.enabled": true, // I like that
+    "editor.quickSuggestionsDelay": 1000,
+    "editor.renderWhitespace": "none",
+    "editor.guides.indentation": false,
+    "remote.SSH.remotePlatform": {
+        // "127.0.0.1": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "workbench.startupEditor": "none",
+    "editor.stickyScroll.enabled": false,
+    "workbench.colorTheme": "Monokai"
+    // "python.defaultInterpreterPath": "c:\\temp\\bin\\venvs\\venv\\Scripts\\python.exe"
+}
