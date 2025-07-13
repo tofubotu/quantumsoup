@@ -1,0 +1,9 @@
+{
+  "name": "Bob",
+  "age": 42,
+  "is_admin": false,
+  "skills": [
+    "JavaScript",
+    "Docker"
+  ]
+}
